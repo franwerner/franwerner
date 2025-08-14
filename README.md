@@ -7,7 +7,7 @@
 <!-- Motto -->
 <div id="user-content-toc" align="center">
  <br></br>
-  <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
+<!--   <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif"> -->
 </div>
 
 
@@ -25,7 +25,6 @@
 <div align="center" style="padding: 50px;">
   <br></br>
   <img src="https://github-readme-stats.vercel.app/api?username=franwerner&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franwerner&theme=radical&show_icons=true&hide_border=true&layout=compact"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=franwerner&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
