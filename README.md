@@ -12,13 +12,15 @@
 
 
 <!-- About Me -->
-<br></br>
-<h4>- 🔭 Actualmente trabajo con <strong>Nestjs, Nextjs y React</strong></h4>
-<h4>- 🌱 Aprendiendo a construir <strong>stacks escalables usando múltiples tecnologías modernas</strong></h4>
-<h4>- ☁️ Interesado en <strong>Backend y arquitectura</strong></h4>
-<h4>- 💬 Pregúntame sobre <strong>Nestjs, React, React Native, Node.js, MySql</strong></h4>
-<h4>- 📫 Contáctame en <strong>francowerner.dev@gmail.com</strong></h4>
-<br></br>
+---
+
+#### 🔭 Actualmente trabajo con **Nestjs, Nextjs y React**  
+#### 🌱 Aprendiendo a construir **stacks escalables usando múltiples tecnologías modernas**  
+#### ☁️ Interesado en **Backend y arquitectura**  
+#### 💬 Pregúntame sobre **Nestjs, React, React Native, Node.js, MySql**  
+#### 📫 Contáctame en **francowerner.dev@gmail.com**  
+
+---
 <!-- GitHub Stats -->
 <div align="center" style="padding: 50px;">
   <br></br>
