@@ -7,7 +7,7 @@
 <!-- Motto -->
 <div id="user-content-toc" align="center">
  <br></br>
-<!--   <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif"> -->
+  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a9018229e78d674348171929c4fd61ae0f248e84c8027e3b96f4cbe0178fb1c0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966">
 </div>
 
 
@@ -33,7 +33,8 @@
 <div  align="center" id="user-content-toc">
  <ul><summary><h2 style="display: inline-block">Tecnologías que conozco 👨🏻‍💻</h2></summary></ul>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,express,nodejs,mysql,tailwind,redux,prisma,next,vite,preact,bootstrap,windicss,react,nestjs,sqlite,py,fastapi,vercel,netlify,npm,redis,docker&perline=14" alt="Tech Stack" />
+
   </p>
 </div>
 
