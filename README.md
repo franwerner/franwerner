@@ -24,8 +24,8 @@
 <!-- GitHub Stats -->
 <div align="center" style="padding: 50px;">
   <br></br>
-  <img src="https://github-readme-stats.vercel.app/api?username=theabbie&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabbie&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franwerner&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franwerner&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <!-- Tech Stack -->
@@ -47,10 +47,4 @@
     <a href="https://www.instagram.com/_franwerner/?hl=es" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" /></a>
     <a href="https://werner.vercel.app" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="Portfolio" height="50" width="50" /></a>
   </p>
-</div>
-
-<!-- Divider -->
-<br></br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </div>
