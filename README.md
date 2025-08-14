@@ -24,8 +24,9 @@
 <!-- GitHub Stats -->
 <div align="center" style="padding: 50px;">
   <br></br>
-  <img src="https://github-readme-stats.vercel.app/api?username=franwerner&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franwerner&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franwerner&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franwerner&theme=radical&show_icons=true&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franwerner&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <!-- Tech Stack -->
