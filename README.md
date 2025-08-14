@@ -14,10 +14,10 @@
 <!-- About Me -->
 <br></br>
   <ul>
-    <li>🔭 Actualmente trabajo con <strong>AWS, React, React Native, Node.js, MongoDB</strong></li>
+    <li>🔭 Actualmente trabajo con <strong>Nestjs, Nextjs y React</strong></li>
     <li>🌱 Aprendiendo a construir <strong>stacks escalables usando múltiples tecnologías modernas</strong></li>
-    <li>☁️ Interesado en <strong>Cloud Computing y AWS</strong></li>
-    <li>💬 Pregúntame sobre <strong>AWS, React, React Native, Node.js, MongoDB</strong></li>
+    <li>☁️ Interesado en <strong>Backend y arquitectura</strong></li>
+    <li>💬 Pregúntame sobre <strong>Nestjs, React, React Native, Node.js, MySql</strong></li>
     <li>📫 Contáctame en <strong>francowerner.dev@gmail.com</strong></li>
   </ul>
 <br></br>
